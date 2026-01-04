@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "more Allegro more Repeat",
+  "base_artist": "YuNi",
+  "createdAt": "2026-01-04T13:35:54.086958Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "more Allegro more Repeat",
+      "artist": "YuNi",
+      "has_synced": false,
+      "path": "select/pl_01_more_Allegro_more_Repeat_YuNi.txt"
+    }
+  ]
+}
